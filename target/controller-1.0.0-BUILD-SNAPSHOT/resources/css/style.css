@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+  background: #fff;
+}
+
+.bluetop {
+  border-collapse: collapse;
+  border-top: 3px solid #168;
+}  
+
+.bluetop th {
+  color: #168;
+}
+
+.bluetop th, .bluetop td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
