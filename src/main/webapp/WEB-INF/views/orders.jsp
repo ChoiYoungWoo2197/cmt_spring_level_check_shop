@@ -4,7 +4,7 @@
 <html>
 <head>
 	<title>cmt_spring_level_check</title>
-	<link rel="stylesheet" href="/resources/css/style.css" />
+	<link rel="stylesheet" href="./resources/css/style.css" />
 </head>
 <body>
 <h1>
